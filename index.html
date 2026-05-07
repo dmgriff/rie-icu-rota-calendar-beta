@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RIE ICU rota calendar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="eyebrow">RIE ICU</p>
+      <h1>Rota calendar download</h1>
+      <p>Select a rota, select your name, check the highlighted duties, then download your calendar file.</p>
+    </header>
+
+    <section class="panel warning">
+      <strong>Experimental tool.</strong>
+      <span>Please check the highlighted rota and downloaded calendar against the official rota. The official rota remains the source of truth.</span>
+    </section>
+
+    <section class="panel grid">
+      <label>
+        <span>Rota</span>
+        <select id="rotaSelect"></select>
+      </label>
+      <label>
+        <span>Name</span>
+        <select id="nameSelect"></select>
+      </label>
+    </section>
+
+    <section class="panel">
+      <div class="sectionHead">
+        <div>
+          <h2>Shifts to be added</h2>
+          <p><strong id="shiftCount">0</strong> all-day calendar events selected.</p>
+        </div>
+      </div>
+      <div id="shiftPreview" class="shiftPreview"></div>
+    </section>
+
+    <section class="panel">
+      <div class="sectionHead">
+        <div>
+          <h2>Rota check</h2>
+          <p>Your selected name is highlighted below. Multiple same-day duties are kept as separate events.</p>
+        </div>
+      </div>
+      <div id="rotaTable" class="rotaTableWrap"></div>
+    </section>
+
+    <section class="panel confirm">
+      <label class="checkline">
+        <input id="confirmCheck" type="checkbox" />
+        <span>I have checked the highlighted duties against the rota.</span>
+      </label>
+      <button id="downloadBtn" disabled>Confirm and download .ics</button>
+    </section>
+
+    <footer>
+      Calendar files are generated locally in your browser.
+      <a href="admin.html">Rota writer page</a>
+    </footer>
+  </main>
+
+  <script src="rota-index.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
