@@ -1,12 +1,7 @@
 window.ROTA_DATASETS = window.ROTA_DATASETS || {};
 window.ROTA_DATASETS["aug-nov-2026"] = {
-  "generatedFrom": "RIE ICU AUG NOV 26 V1.docx",
+  "generatedFrom": "RIE ICU AUG NOV 26 V12.docx",
   "periods": [
-    {
-      "key": "all",
-      "label": "August - November 2026",
-      "start": "2026-08-01"
-    },
     {
       "key": "2026-08",
       "label": "August 2026",
@@ -52,7 +47,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "2nd on call night",
@@ -83,7 +78,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "2nd on call night",
@@ -114,7 +109,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "2nd on call night",
@@ -145,7 +140,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "2nd on call night",
@@ -160,15 +155,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "PRICE"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
-          "name": "DOCHERTY"
+          "name": "PRICE"
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "GIBSON"
         },
         {
           "column": "116 base D",
@@ -176,7 +171,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "DOCHERTY"
+          "name": "HURRY"
         },
         {
           "column": "2nd on call night",
@@ -191,15 +186,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "PRICE"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
-          "name": "DOCHERTY"
+          "name": "PRICE"
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "LONE"
         },
         {
           "column": "116 base D",
@@ -211,7 +206,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "HURRY"
+          "name": "LONE"
         }
       ]
     },
@@ -222,15 +217,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "PRICE"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
-          "name": "DOCHERTY"
+          "name": "PRICE"
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "BIRSE"
         },
         {
           "column": "116 base D",
@@ -242,7 +237,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "DOCHERTY"
+          "name": "HURRY"
         }
       ]
     },
@@ -517,7 +512,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "LIVESEY"
+          "name": "DOCHERTY"
         },
         {
           "column": "2nd on call night",
@@ -602,7 +597,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -633,7 +628,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -645,7 +640,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "SERVICE"
+          "name": ""
         }
       ]
     },
@@ -664,7 +659,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -819,7 +814,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "CRAVEN"
+          "name": "KEFALA"
         },
         {
           "column": "116 base D",
@@ -924,7 +919,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "DOCHERTY"
+          "name": "HARTLEY"
         }
       ]
     },
@@ -955,7 +950,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "HARTLEY"
+          "name": "DOCHERTY"
         }
       ]
     },
@@ -986,7 +981,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "DOCHERTY"
+          "name": "HARTLEY"
         }
       ]
     },
@@ -1017,7 +1012,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "HARTLEY"
+          "name": "DOCHERTY"
         }
       ]
     },
@@ -1036,7 +1031,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -1067,7 +1062,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -1079,7 +1074,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "SERVICE"
+          "name": ""
         }
       ]
     },
@@ -1098,7 +1093,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base D",
@@ -1160,7 +1155,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "LIVESEY"
+          "name": "CRAVEN"
         },
         {
           "column": "116 base D",
@@ -1168,7 +1163,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "DOCHERTY"
+          "name": "LIVESEY"
         },
         {
           "column": "2nd on call night",
@@ -1470,7 +1465,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "LIVESEY"
+          "name": "KEFALA"
         },
         {
           "column": "116 base D",
@@ -1501,7 +1496,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "LIVESEY"
+          "name": "KEFALA"
         },
         {
           "column": "116 base D",
@@ -1513,7 +1508,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "LIVESEY"
+          "name": "KEFALA"
         }
       ]
     },
@@ -1532,7 +1527,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "LIVESEY"
+          "name": "KEFALA"
         },
         {
           "column": "116 base D",
@@ -1563,7 +1558,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "G MCNEILL"
+          "name": "BEATTY"
         },
         {
           "column": "116 base D",
@@ -1571,7 +1566,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "GIBSON"
+          "name": "RHODES"
         },
         {
           "column": "2nd on call night",
@@ -1625,7 +1620,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "KEFALA"
+          "name": "CRAVEN"
         },
         {
           "column": "116 base D",
@@ -1633,7 +1628,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "BIDDIE"
+          "name": "BIRSE"
         },
         {
           "column": "2nd on call night",
@@ -1687,7 +1682,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "KEFALA"
+          "name": "LIVESEY / LONE"
         },
         {
           "column": "116 base D",
@@ -1718,7 +1713,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "KEFALA"
+          "name": "LIVESEY"
         },
         {
           "column": "116 base D",
@@ -1730,7 +1725,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "KEFALA"
+          "name": "LIVESEY"
         }
       ]
     },
@@ -1749,7 +1744,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "KEFALA"
+          "name": "LIVESEY"
         },
         {
           "column": "116 base D",
@@ -1772,7 +1767,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "118 Base B",
@@ -1792,7 +1787,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "SERVICE"
+          "name": "MONROE-SOMERVILLE"
         }
       ]
     },
@@ -1803,7 +1798,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "118 Base B",
@@ -1823,7 +1818,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "MONROE-SOMERVILLE"
+          "name": ""
         }
       ]
     },
@@ -1834,7 +1829,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "118 Base B",
@@ -1854,7 +1849,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "SERVICE"
+          "name": "MONROE-SOMERVILLE"
         }
       ]
     },
@@ -1865,7 +1860,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "118 Base B",
@@ -1881,11 +1876,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "BIRSE"
+          "name": "BI DDIE"
         },
         {
           "column": "2nd on call night",
-          "name": "MONROE-SOMERVILLE"
+          "name": ""
         }
       ]
     },
@@ -2036,7 +2031,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "FLEMING"
+          "name": "BIRSE"
         },
         {
           "column": "2nd on call night",
@@ -2059,7 +2054,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "GILLON"
+          "name": "G MCNEILL"
         },
         {
           "column": "116 base D",
@@ -2334,7 +2329,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "118 Base B",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base C",
@@ -2346,7 +2341,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "2nd on call night",
@@ -2365,7 +2360,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "118 Base B",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base C",
@@ -2396,7 +2391,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "118 Base B",
-          "name": "SERVICE"
+          "name": ""
         },
         {
           "column": "116 base C",
@@ -2412,7 +2407,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "SERVICE"
+          "name": ""
         }
       ]
     },
@@ -2462,7 +2457,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "CRAVEN"
+          "name": "LIVESEY"
         },
         {
           "column": "116 base D",
@@ -2764,11 +2759,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "BEATTY"
+          "name": "LIVESEY"
         },
         {
           "column": "118 Base B",
-          "name": "BIRSE"
+          "name": "FLEMING"
         },
         {
           "column": "116 base C",
@@ -2780,7 +2775,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "BIRSE"
+          "name": "FLEMING"
         },
         {
           "column": "2nd on call night",
@@ -2795,11 +2790,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "BEATTY"
+          "name": "LIVESEY"
         },
         {
           "column": "118 Base B",
-          "name": "BIRSE"
+          "name": "FLEMING"
         },
         {
           "column": "116 base C",
@@ -2811,7 +2806,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "BEATTY"
+          "name": "LIVESEY"
         },
         {
           "column": "2nd on call night",
@@ -2826,11 +2821,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "BEATTY"
+          "name": "LIVESEY"
         },
         {
           "column": "118 Base B",
-          "name": "BIRSE"
+          "name": "FLEMING"
         },
         {
           "column": "116 base C",
@@ -2846,7 +2841,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "BIRSE"
+          "name": "FLEMING"
         }
       ]
     },
@@ -2857,7 +2852,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "HARTLEY"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
@@ -2869,7 +2864,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base D",
-          "name": "HURRY"
+          "name": "HARTLEY"
         },
         {
           "column": "1st on call night",
@@ -2888,7 +2883,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "HARTLEY"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
@@ -2900,7 +2895,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base D",
-          "name": "HURRY"
+          "name": "HARTLEY"
         },
         {
           "column": "1st on call night",
@@ -2919,7 +2914,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "HARTLEY"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
@@ -2931,11 +2926,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base D",
-          "name": "HURRY"
+          "name": "HARTLEY"
         },
         {
           "column": "1st on call night",
-          "name": "DOCHERTY"
+          "name": "PRICE"
         },
         {
           "column": "2nd on call night",
@@ -2950,7 +2945,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "HARTLEY"
+          "name": "HURRY"
         },
         {
           "column": "118 Base B",
@@ -2962,11 +2957,11 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base D",
-          "name": "HURRY"
+          "name": "HARTLEY"
         },
         {
           "column": "1st on call night",
-          "name": "RHODES"
+          "name": "GIBSON"
         },
         {
           "column": "2nd on call night",
@@ -2989,7 +2984,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "FLEMING"
+          "name": "BIRSE"
         },
         {
           "column": "116 base D",
@@ -3020,7 +3015,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "FLEMING"
+          "name": "BIRSE"
         },
         {
           "column": "116 base D",
@@ -3032,7 +3027,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "FLEMING"
+          "name": "BIRSE"
         }
       ]
     },
@@ -3051,7 +3046,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "FLEMING"
+          "name": "BIRSE"
         },
         {
           "column": "116 base D",
@@ -3113,7 +3108,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "LIVESEY"
+          "name": "GILLON"
         },
         {
           "column": "116 base D",
@@ -3144,7 +3139,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "GILLON"
+          "name": "LIVESEY"
         },
         {
           "column": "116 base D",
@@ -3198,7 +3193,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "LIVESEY"
+          "name": "BEATTY"
         },
         {
           "column": "118 Base B",
@@ -3229,7 +3224,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "LIVESEY"
+          "name": "BEATTY"
         },
         {
           "column": "118 Base B",
@@ -3245,7 +3240,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "1st on call night",
-          "name": "LIVESEY"
+          "name": "BEATTY"
         },
         {
           "column": "2nd on call night",
@@ -3260,7 +3255,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "duties": [
         {
           "column": "118 base A",
-          "name": "LIVESEY"
+          "name": "BEATTY"
         },
         {
           "column": "118 Base B",
@@ -3640,7 +3635,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "YOUNG"
         },
         {
           "column": "116 base D",
@@ -3671,7 +3666,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "YOUNG"
         },
         {
           "column": "116 base D",
@@ -3683,7 +3678,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "2nd on call night",
-          "name": "HURRY"
+          "name": "YOUNG"
         }
       ]
     },
@@ -3702,7 +3697,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
         },
         {
           "column": "116 base C",
-          "name": "HURRY"
+          "name": "YOUNG"
         },
         {
           "column": "116 base D",
@@ -3724,20 +3719,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-03",
       "weekday": "Monday",
-      "column": "118 base A",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-03",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-03",
-      "weekday": "Monday",
       "column": "116 base C",
       "name": "G MCNEILL"
     },
@@ -3752,22 +3733,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-03",
       "weekday": "Monday",
-      "column": "2nd on call night",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-04",
-      "weekday": "Tuesday",
       "column": "118 base A",
       "name": "BIDDIE"
     },
     {
       "periodKey": "2026-08",
-      "date": "2026-08-04",
-      "weekday": "Tuesday",
+      "date": "2026-08-03",
+      "weekday": "Monday",
       "column": "118 Base B",
       "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-03",
+      "weekday": "Monday",
+      "column": "2nd on call night",
+      "name": "BIDDIE"
     },
     {
       "periodKey": "2026-08",
@@ -3787,21 +3768,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-04",
       "weekday": "Tuesday",
-      "column": "2nd on call night",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-05",
-      "weekday": "Wednesday",
       "column": "118 base A",
       "name": "BIDDIE"
     },
     {
       "periodKey": "2026-08",
-      "date": "2026-08-05",
-      "weekday": "Wednesday",
+      "date": "2026-08-04",
+      "weekday": "Tuesday",
       "column": "118 Base B",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-04",
+      "weekday": "Tuesday",
+      "column": "2nd on call night",
       "name": "BIRSE"
     },
     {
@@ -3822,7 +3803,35 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-05",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "BIDDIE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-05",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-05",
+      "weekday": "Wednesday",
       "column": "2nd on call night",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-06",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-06",
+      "weekday": "Thursday",
+      "column": "116 base D",
       "name": "FLEMING"
     },
     {
@@ -3843,20 +3852,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-06",
       "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-06",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-06",
-      "weekday": "Thursday",
       "column": "2nd on call night",
       "name": "BIDDIE"
     },
@@ -3864,22 +3859,8 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-07",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-07",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-07",
-      "weekday": "Friday",
       "column": "116 base C",
-      "name": "HURRY"
+      "name": "GIBSON"
     },
     {
       "periodKey": "2026-08",
@@ -3892,8 +3873,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-07",
       "weekday": "Friday",
+      "column": "118 base A",
+      "name": "HURRY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-07",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "PRICE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-07",
+      "weekday": "Friday",
       "column": "1st on call night",
-      "name": "DOCHERTY"
+      "name": "HURRY"
     },
     {
       "periodKey": "2026-08",
@@ -3906,22 +3901,8 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-08",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-08",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-08",
-      "weekday": "Saturday",
       "column": "116 base C",
-      "name": "HURRY"
+      "name": "LONE"
     },
     {
       "periodKey": "2026-08",
@@ -3929,6 +3910,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-08",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "HURRY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-08",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-08",
@@ -3942,28 +3937,14 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-08-08",
       "weekday": "Saturday",
       "column": "2nd on call night",
-      "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-09",
-      "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-09",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "DOCHERTY"
+      "name": "LONE"
     },
     {
       "periodKey": "2026-08",
       "date": "2026-08-09",
       "weekday": "Sunday",
       "column": "116 base C",
-      "name": "HURRY"
+      "name": "BIRSE"
     },
     {
       "periodKey": "2026-08",
@@ -3971,6 +3952,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "116 base D",
       "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-09",
+      "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "HURRY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-09",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-08",
@@ -3984,21 +3979,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-08-09",
       "weekday": "Sunday",
       "column": "2nd on call night",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-10",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-10",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "GILLON"
+      "name": "HURRY"
     },
     {
       "periodKey": "2026-08",
@@ -4018,6 +3999,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-10",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-10",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-10",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "CRAVEN"
     },
@@ -4027,20 +4022,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "2nd on call night",
       "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-11",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-11",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "GILLON"
     },
     {
       "periodKey": "2026-08",
@@ -4060,6 +4041,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-11",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-11",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-11",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "KERSLAKE"
     },
@@ -4068,20 +4063,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-08-11",
       "weekday": "Tuesday",
       "column": "2nd on call night",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-12",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-12",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
       "name": "GILLON"
     },
     {
@@ -4102,6 +4083,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-12",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-12",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-12",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "ROBINSON"
     },
@@ -4111,20 +4106,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-13",
-      "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-13",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "GILLON"
     },
     {
       "periodKey": "2026-08",
@@ -4144,6 +4125,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-13",
       "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-13",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-13",
+      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "ROBINSON"
     },
@@ -4158,20 +4153,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-14",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-14",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-14",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "RHODES"
     },
@@ -4181,6 +4162,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-14",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-14",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-08",
@@ -4200,20 +4195,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-15",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-15",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-15",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "RHODES"
     },
@@ -4223,6 +4204,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-15",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-15",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-08",
@@ -4242,20 +4237,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-16",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-16",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-16",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "RHODES"
     },
@@ -4270,6 +4251,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-16",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-16",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-16",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "MONROE-SOMERVILLE"
     },
@@ -4279,6 +4274,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-17",
+      "weekday": "Monday",
+      "column": "116 base C",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-17",
+      "weekday": "Monday",
+      "column": "116 base D",
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-08",
@@ -4298,20 +4307,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-17",
       "weekday": "Monday",
-      "column": "116 base C",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-17",
-      "weekday": "Monday",
-      "column": "116 base D",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-17",
-      "weekday": "Monday",
       "column": "1st on call night",
       "name": "FERGUSON"
     },
@@ -4321,6 +4316,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "2nd on call night",
       "name": "S MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-18",
+      "weekday": "Tuesday",
+      "column": "116 base C",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-18",
+      "weekday": "Tuesday",
+      "column": "116 base D",
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-08",
@@ -4340,28 +4349,28 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-18",
       "weekday": "Tuesday",
-      "column": "116 base C",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-18",
-      "weekday": "Tuesday",
-      "column": "116 base D",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-18",
-      "weekday": "Tuesday",
       "column": "1st on call night",
-      "name": "LIVESEY"
+      "name": "DOCHERTY"
     },
     {
       "periodKey": "2026-08",
       "date": "2026-08-18",
       "weekday": "Tuesday",
       "column": "2nd on call night",
+      "name": "PRICE"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-19",
+      "weekday": "Wednesday",
+      "column": "116 base C",
+      "name": "KEFALA"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-19",
+      "weekday": "Wednesday",
+      "column": "116 base D",
       "name": "PRICE"
     },
     {
@@ -4382,20 +4391,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-19",
       "weekday": "Wednesday",
-      "column": "116 base C",
-      "name": "KEFALA"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-19",
-      "weekday": "Wednesday",
-      "column": "116 base D",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-19",
-      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "HARTLEY"
     },
@@ -4405,6 +4400,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "S MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-20",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-20",
+      "weekday": "Thursday",
+      "column": "116 base D",
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-08",
@@ -4424,20 +4433,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-20",
       "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-20",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-20",
-      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "BEATTY"
     },
@@ -4452,6 +4447,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-21",
       "weekday": "Friday",
+      "column": "116 base D",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-21",
+      "weekday": "Friday",
       "column": "118 base A",
       "name": "HALL"
     },
@@ -4461,13 +4463,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-21",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "YOUNG"
     },
     {
       "periodKey": "2026-08",
@@ -4487,6 +4482,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-22",
       "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-22",
+      "weekday": "Saturday",
       "column": "118 base A",
       "name": "HALL"
     },
@@ -4501,15 +4503,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-22",
       "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "YOUNG"
+      "column": "1st on call night",
+      "name": "HALL"
     },
     {
       "periodKey": "2026-08",
-      "date": "2026-08-22",
-      "weekday": "Saturday",
-      "column": "1st on call night",
-      "name": "HALL"
+      "date": "2026-08-23",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "YOUNG"
     },
     {
       "periodKey": "2026-08",
@@ -4529,13 +4531,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-23",
       "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-23",
-      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "YOUNG"
     },
@@ -4545,6 +4540,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-24",
+      "weekday": "Monday",
+      "column": "116 base C",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-24",
+      "weekday": "Monday",
+      "column": "116 base D",
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-08",
@@ -4564,20 +4573,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-24",
       "weekday": "Monday",
-      "column": "116 base C",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-24",
-      "weekday": "Monday",
-      "column": "116 base D",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-24",
-      "weekday": "Monday",
       "column": "1st on call night",
       "name": "BIRSE"
     },
@@ -4587,6 +4582,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "2nd on call night",
       "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-25",
+      "weekday": "Tuesday",
+      "column": "116 base C",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-25",
+      "weekday": "Tuesday",
+      "column": "116 base D",
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-08",
@@ -4606,20 +4615,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-25",
       "weekday": "Tuesday",
-      "column": "116 base C",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-25",
-      "weekday": "Tuesday",
-      "column": "116 base D",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-25",
-      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "GRIFFITH"
     },
@@ -4628,6 +4623,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-08-25",
       "weekday": "Tuesday",
       "column": "2nd on call night",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-26",
+      "weekday": "Wednesday",
+      "column": "116 base C",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-26",
+      "weekday": "Wednesday",
+      "column": "116 base D",
       "name": "BEATTY"
     },
     {
@@ -4648,20 +4657,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-26",
       "weekday": "Wednesday",
-      "column": "116 base C",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-26",
-      "weekday": "Wednesday",
-      "column": "116 base D",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-26",
-      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "GRIFFITH"
     },
@@ -4671,6 +4666,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-27",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-27",
+      "weekday": "Thursday",
+      "column": "116 base D",
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-08",
@@ -4690,20 +4699,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-27",
       "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-27",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-27",
-      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "LIVESEY"
     },
@@ -4718,6 +4713,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-28",
       "weekday": "Friday",
+      "column": "116 base C",
+      "name": "KEFALA"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-28",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-28",
+      "weekday": "Friday",
       "column": "118 base A",
       "name": "GIBSON"
     },
@@ -4727,20 +4736,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-28",
-      "weekday": "Friday",
-      "column": "116 base C",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-28",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-08",
@@ -4760,20 +4755,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-29",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-29",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-29",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "CRAVEN"
     },
@@ -4783,6 +4764,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-29",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "GIBSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-29",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "GILLON"
     },
     {
       "periodKey": "2026-08",
@@ -4802,20 +4797,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-30",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-30",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-30",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "CRAVEN"
     },
@@ -4830,6 +4811,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-30",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "GIBSON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-30",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-30",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "G MCNEILL"
     },
@@ -4839,20 +4834,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-31",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-08",
-      "date": "2026-08-31",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "HARTLEY"
     },
     {
       "periodKey": "2026-08",
@@ -4872,6 +4853,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-08",
       "date": "2026-08-31",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "DOCHERTY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-31",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-08",
+      "date": "2026-08-31",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "YOUNG"
     },
@@ -4880,20 +4875,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-08-31",
       "weekday": "Monday",
       "column": "2nd on call night",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-01",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-01",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
       "name": "HARTLEY"
     },
     {
@@ -4914,6 +4895,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-01",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "DOCHERTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-01",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-01",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "WATERSON"
     },
@@ -4922,21 +4917,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-01",
       "weekday": "Tuesday",
       "column": "2nd on call night",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-02",
-      "weekday": "Wednesday",
-      "column": "118 base A",
       "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-02",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "HARTLEY"
     },
     {
       "periodKey": "2026-09",
@@ -4956,6 +4937,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-02",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "DOCHERTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-02",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-02",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "WATERSON"
     },
@@ -4964,20 +4959,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-02",
       "weekday": "Wednesday",
       "column": "2nd on call night",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-03",
-      "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "DOCHERTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-03",
-      "weekday": "Thursday",
-      "column": "118 Base B",
       "name": "HARTLEY"
     },
     {
@@ -4998,6 +4979,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-03",
       "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "DOCHERTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-03",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-03",
+      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "PRICE"
     },
@@ -5006,7 +5001,14 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-03",
       "weekday": "Thursday",
       "column": "2nd on call night",
-      "name": "HARTLEY"
+      "name": "DOCHERTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-04",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-09",
@@ -5021,13 +5023,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-04",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "BEATTY"
     },
     {
       "periodKey": "2026-09",
@@ -5047,6 +5042,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-05",
       "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-05",
+      "weekday": "Saturday",
       "column": "118 base A",
       "name": "FERGUSON"
     },
@@ -5061,15 +5063,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-05",
       "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "BEATTY"
+      "column": "1st on call night",
+      "name": "FERGUSON"
     },
     {
       "periodKey": "2026-09",
-      "date": "2026-09-05",
-      "weekday": "Saturday",
-      "column": "1st on call night",
-      "name": "FERGUSON"
+      "date": "2026-09-06",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-09",
@@ -5084,13 +5086,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "118 Base B",
       "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-06",
-      "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "BEATTY"
     },
     {
       "periodKey": "2026-09",
@@ -5105,20 +5100,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-07",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-07",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "WATERSON"
     },
     {
       "periodKey": "2026-09",
@@ -5138,6 +5119,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-07",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "BARUAH"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-07",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-07",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "GIBSON"
     },
@@ -5152,22 +5147,8 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-08",
       "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-08",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-08",
-      "weekday": "Tuesday",
       "column": "116 base C",
-      "name": "LIVESEY"
+      "name": "CRAVEN"
     },
     {
       "periodKey": "2026-09",
@@ -5180,8 +5161,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-08",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "BARUAH"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-08",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-08",
+      "weekday": "Tuesday",
       "column": "1st on call night",
-      "name": "DOCHERTY"
+      "name": "LIVESEY"
     },
     {
       "periodKey": "2026-09",
@@ -5189,20 +5184,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Tuesday",
       "column": "2nd on call night",
       "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-09",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-09",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "WATERSON"
     },
     {
       "periodKey": "2026-09",
@@ -5222,6 +5203,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-09",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "BARUAH"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-09",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-09",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "CRAVEN"
     },
@@ -5231,6 +5226,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-10",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-10",
+      "weekday": "Thursday",
+      "column": "116 base D",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-09",
@@ -5250,20 +5259,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-10",
       "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-10",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-10",
-      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "RHODES"
     },
@@ -5278,20 +5273,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-11",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-11",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-11",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "GILLIES"
     },
@@ -5301,6 +5282,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "GRIFFITH"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-11",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-11",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "LONE"
     },
     {
       "periodKey": "2026-09",
@@ -5320,20 +5315,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-12",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-12",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-12",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "GILLIES"
     },
@@ -5343,6 +5324,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "GRIFFITH"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-12",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-12",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "LONE"
     },
     {
       "periodKey": "2026-09",
@@ -5362,20 +5357,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-13",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-13",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-13",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "GILLIES"
     },
@@ -5390,6 +5371,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-13",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-13",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-13",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "GRIFFITH"
     },
@@ -5399,20 +5394,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "LONE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-14",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-14",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "FLEMING"
     },
     {
       "periodKey": "2026-09",
@@ -5427,6 +5408,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "116 base D",
       "name": "ROBINSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-14",
+      "weekday": "Monday",
+      "column": "118 base A",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-14",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "FLEMING"
     },
     {
       "periodKey": "2026-09",
@@ -5446,20 +5441,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-15",
       "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-15",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-15",
-      "weekday": "Tuesday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -5474,6 +5455,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-15",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-15",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-15",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "HALL"
     },
@@ -5482,20 +5477,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-15",
       "weekday": "Tuesday",
       "column": "2nd on call night",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-16",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-16",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
       "name": "FLEMING"
     },
     {
@@ -5516,6 +5497,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-16",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-16",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-16",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "LONE"
     },
@@ -5524,6 +5519,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-16",
       "weekday": "Wednesday",
       "column": "2nd on call night",
+      "name": "ROBINSON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-17",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-17",
+      "weekday": "Thursday",
+      "column": "116 base D",
       "name": "ROBINSON"
     },
     {
@@ -5539,20 +5548,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Thursday",
       "column": "118 Base B",
       "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-17",
-      "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-17",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "ROBINSON"
     },
     {
       "periodKey": "2026-09",
@@ -5572,235 +5567,221 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-18",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-18",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "HALL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-18",
-      "weekday": "Friday",
-      "column": "116 base C",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-18",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-18",
-      "weekday": "Friday",
-      "column": "1st on call night",
-      "name": "HALL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-18",
-      "weekday": "Friday",
-      "column": "2nd on call night",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "HALL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "116 base C",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "1st on call night",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-19",
-      "weekday": "Saturday",
-      "column": "2nd on call night",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "HALL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "116 base C",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "1st on call night",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-20",
-      "weekday": "Sunday",
-      "column": "2nd on call night",
-      "name": "HALL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "116 base C",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "116 base D",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "1st on call night",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-21",
-      "weekday": "Monday",
-      "column": "2nd on call night",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "116 base C",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "116 base D",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "1st on call night",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-22",
-      "weekday": "Tuesday",
-      "column": "2nd on call night",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-23",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-23",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-23",
-      "weekday": "Wednesday",
       "column": "116 base C",
       "name": "KEFALA"
     },
     {
       "periodKey": "2026-09",
+      "date": "2026-09-18",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-18",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-18",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-18",
+      "weekday": "Friday",
+      "column": "1st on call night",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-18",
+      "weekday": "Friday",
+      "column": "2nd on call night",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "116 base C",
+      "name": "KEFALA"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "1st on call night",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-19",
+      "weekday": "Saturday",
+      "column": "2nd on call night",
+      "name": "KEFALA"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "116 base C",
+      "name": "KEFALA"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "1st on call night",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-20",
+      "weekday": "Sunday",
+      "column": "2nd on call night",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "116 base C",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "116 base D",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "118 base A",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "1st on call night",
+      "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-21",
+      "weekday": "Monday",
+      "column": "2nd on call night",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "116 base C",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "116 base D",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "1st on call night",
+      "name": "BIDDIE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-22",
+      "weekday": "Tuesday",
+      "column": "2nd on call night",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-23",
+      "weekday": "Wednesday",
+      "column": "116 base C",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-09",
       "date": "2026-09-23",
       "weekday": "Wednesday",
       "column": "116 base D",
@@ -5810,8 +5791,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-23",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-23",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-23",
+      "weekday": "Wednesday",
       "column": "1st on call night",
-      "name": "BIDDIE"
+      "name": "BIRSE"
     },
     {
       "periodKey": "2026-09",
@@ -5819,20 +5814,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-24",
-      "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-24",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "PHILP"
     },
     {
       "periodKey": "2026-09",
@@ -5852,6 +5833,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-24",
       "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-24",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-24",
+      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "GILLON"
     },
@@ -5866,6 +5861,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-25",
       "weekday": "Friday",
+      "column": "116 base C",
+      "name": "LIVESEY / LONE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-25",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-25",
+      "weekday": "Friday",
       "column": "118 base A",
       "name": "GRIFFITH"
     },
@@ -5875,20 +5884,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-25",
-      "weekday": "Friday",
-      "column": "116 base C",
-      "name": "KEFALA"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-25",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "RHODES"
     },
     {
       "periodKey": "2026-09",
@@ -5908,6 +5903,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-26",
       "weekday": "Saturday",
+      "column": "116 base C",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-26",
+      "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-26",
+      "weekday": "Saturday",
       "column": "118 base A",
       "name": "GRIFFITH"
     },
@@ -5917,20 +5926,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "118 Base B",
       "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-26",
-      "weekday": "Saturday",
-      "column": "116 base C",
-      "name": "KEFALA"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-26",
-      "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "RHODES"
     },
     {
       "periodKey": "2026-09",
@@ -5944,7 +5939,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-09-26",
       "weekday": "Saturday",
       "column": "2nd on call night",
-      "name": "KEFALA"
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-27",
+      "weekday": "Sunday",
+      "column": "116 base C",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-27",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "RHODES"
     },
     {
       "periodKey": "2026-09",
@@ -5959,20 +5968,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "118 Base B",
       "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-27",
-      "weekday": "Sunday",
-      "column": "116 base C",
-      "name": "KEFALA"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-27",
-      "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "RHODES"
     },
     {
       "periodKey": "2026-09",
@@ -5992,13 +5987,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-28",
       "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-28",
-      "weekday": "Monday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -6013,14 +6001,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-28",
       "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-28",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "S MCNEILL"
     },
     {
       "periodKey": "2026-09",
-      "date": "2026-09-29",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
+      "date": "2026-09-28",
+      "weekday": "Monday",
+      "column": "2nd on call night",
       "name": "MONROE-SOMERVILLE"
     },
     {
@@ -6041,22 +6036,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-09",
       "date": "2026-09-29",
       "weekday": "Tuesday",
-      "column": "1st on call night",
-      "name": "S MCNEILL"
+      "column": "118 Base B",
+      "name": "MONROE-SOMERVILLE"
     },
     {
       "periodKey": "2026-09",
       "date": "2026-09-29",
       "weekday": "Tuesday",
-      "column": "2nd on call night",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-09",
-      "date": "2026-09-30",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "MONROE-SOMERVILLE"
+      "column": "1st on call night",
+      "name": "S MCNEILL"
     },
     {
       "periodKey": "2026-09",
@@ -6071,6 +6059,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "116 base D",
       "name": "JIWAJI"
+    },
+    {
+      "periodKey": "2026-09",
+      "date": "2026-09-30",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "MONROE-SOMERVILLE"
     },
     {
       "periodKey": "2026-09",
@@ -6080,10 +6075,10 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "name": "LONE"
     },
     {
-      "periodKey": "2026-10",
-      "date": "2026-10-01",
-      "weekday": "Thursday",
-      "column": "118 Base B",
+      "periodKey": "2026-09",
+      "date": "2026-09-30",
+      "weekday": "Wednesday",
+      "column": "2nd on call night",
       "name": "MONROE-SOMERVILLE"
     },
     {
@@ -6104,29 +6099,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-01",
       "weekday": "Thursday",
-      "column": "1st on call night",
-      "name": "BIRSE"
+      "column": "118 Base B",
+      "name": "MONROE-SOMERVILLE"
     },
     {
       "periodKey": "2026-10",
       "date": "2026-10-01",
       "weekday": "Thursday",
-      "column": "2nd on call night",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-02",
-      "weekday": "Friday",
-      "column": "118 base A",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-02",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "YOUNG"
+      "column": "1st on call night",
+      "name": "BI DDIE"
     },
     {
       "periodKey": "2026-10",
@@ -6146,6 +6127,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-02",
       "weekday": "Friday",
+      "column": "118 base A",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-02",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-02",
+      "weekday": "Friday",
       "column": "1st on call night",
       "name": "YOUNG"
     },
@@ -6160,20 +6155,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-03",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-03",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-03",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "HARTLEY"
     },
@@ -6183,6 +6164,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "BAILLIE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-03",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-03",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "YOUNG"
     },
     {
       "periodKey": "2026-10",
@@ -6202,20 +6197,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-04",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-04",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-04",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "HARTLEY"
     },
@@ -6230,6 +6211,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-04",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-04",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-04",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "BAILLIE"
     },
@@ -6239,20 +6234,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-05",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-05",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "KERSLAKE"
     },
     {
       "periodKey": "2026-10",
@@ -6267,6 +6248,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "116 base D",
       "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-05",
+      "weekday": "Monday",
+      "column": "118 base A",
+      "name": "GIBSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-05",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "KERSLAKE"
     },
     {
       "periodKey": "2026-10",
@@ -6286,20 +6281,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-06",
       "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-06",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-06",
-      "weekday": "Tuesday",
       "column": "116 base C",
       "name": "MONROE-SOMERVILLE"
     },
@@ -6314,8 +6295,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-06",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "GIBSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-06",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-06",
+      "weekday": "Tuesday",
       "column": "1st on call night",
-      "name": "FLEMING"
+      "name": "BIRSE"
     },
     {
       "periodKey": "2026-10",
@@ -6328,6 +6323,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-07",
       "weekday": "Wednesday",
+      "column": "116 base C",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-07",
+      "weekday": "Wednesday",
+      "column": "116 base D",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-07",
+      "weekday": "Wednesday",
       "column": "118 base A",
       "name": "GIBSON"
     },
@@ -6337,20 +6346,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "118 Base B",
       "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-07",
-      "weekday": "Wednesday",
-      "column": "116 base C",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-07",
-      "weekday": "Wednesday",
-      "column": "116 base D",
-      "name": "CRAVEN"
     },
     {
       "periodKey": "2026-10",
@@ -6370,20 +6365,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-08",
       "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-08",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "KERSLAKE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-08",
-      "weekday": "Thursday",
       "column": "116 base C",
       "name": "GILLON"
     },
@@ -6398,6 +6379,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-08",
       "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "GIBSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-08",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "KERSLAKE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-08",
+      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "HARTLEY"
     },
@@ -6412,20 +6407,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-09",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "FERGUSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-09",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "S MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-09",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -6435,6 +6416,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-09",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-09",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "S MCNEILL"
     },
     {
       "periodKey": "2026-10",
@@ -6454,20 +6449,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-10",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "FERGUSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-10",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "S MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-10",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -6477,6 +6458,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "S MCNEILL"
     },
     {
       "periodKey": "2026-10",
@@ -6496,20 +6491,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-11",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "FERGUSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-11",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "S MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-11",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -6524,6 +6505,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-11",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-11",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "S MCNEILL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-11",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "RHODES"
     },
@@ -6533,20 +6528,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "S MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-12",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-12",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "LONE"
     },
     {
       "periodKey": "2026-10",
@@ -6566,6 +6547,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-12",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-12",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-12",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "CAMERON"
     },
@@ -6575,20 +6570,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "2nd on call night",
       "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-13",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-13",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "LONE"
     },
     {
       "periodKey": "2026-10",
@@ -6608,6 +6589,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-13",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-13",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-13",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "CAMERON"
     },
@@ -6616,20 +6611,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-10-13",
       "weekday": "Tuesday",
       "column": "2nd on call night",
-      "name": "LONE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-14",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-14",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
       "name": "LONE"
     },
     {
@@ -6650,6 +6631,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-14",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-14",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "LONE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-14",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "BEATTY"
     },
@@ -6658,6 +6653,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-10-14",
       "weekday": "Wednesday",
       "column": "2nd on call night",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-15",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-15",
+      "weekday": "Thursday",
+      "column": "116 base D",
       "name": "HARTLEY"
     },
     {
@@ -6673,20 +6682,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Thursday",
       "column": "118 Base B",
       "name": "LONE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-15",
-      "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-15",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "HARTLEY"
     },
     {
       "periodKey": "2026-10",
@@ -6706,13 +6701,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-16",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-16",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "KEFALA"
     },
@@ -6722,6 +6710,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "PRICE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-16",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "BIDDIE"
     },
     {
       "periodKey": "2026-10",
@@ -6734,13 +6729,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-17",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-17",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "KEFALA"
     },
@@ -6750,6 +6738,13 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "PRICE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-17",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "BIDDIE"
     },
     {
       "periodKey": "2026-10",
@@ -6769,13 +6764,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-18",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-18",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "KEFALA"
     },
@@ -6790,22 +6778,15 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-18",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "BIDDIE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-18",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "PRICE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-19",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-19",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "CAMERON"
     },
     {
       "periodKey": "2026-10",
@@ -6825,6 +6806,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-19",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-19",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "CAMERON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-19",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "MONROE-SOMERVILLE"
     },
@@ -6839,6 +6834,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-20",
       "weekday": "Tuesday",
+      "column": "116 base C",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-20",
+      "weekday": "Tuesday",
+      "column": "116 base D",
+      "name": "HALL"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-20",
+      "weekday": "Tuesday",
       "column": "118 base A",
       "name": "PHILP"
     },
@@ -6848,20 +6857,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Tuesday",
       "column": "118 Base B",
       "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-20",
-      "weekday": "Tuesday",
-      "column": "116 base C",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-20",
-      "weekday": "Tuesday",
-      "column": "116 base D",
-      "name": "HALL"
     },
     {
       "periodKey": "2026-10",
@@ -6881,20 +6876,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-21",
       "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-21",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-21",
-      "weekday": "Wednesday",
       "column": "116 base C",
       "name": "CRAVEN"
     },
@@ -6909,6 +6890,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-21",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-21",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "CAMERON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-21",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "BAILLIE"
     },
@@ -6917,20 +6912,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-10-21",
       "weekday": "Wednesday",
       "column": "2nd on call night",
-      "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-22",
-      "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "PHILP"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-22",
-      "weekday": "Thursday",
-      "column": "118 Base B",
       "name": "CAMERON"
     },
     {
@@ -6951,6 +6932,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-22",
       "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "PHILP"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-22",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "CAMERON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-22",
+      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "BAILLIE"
     },
@@ -6965,20 +6960,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-23",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-23",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-23",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "GILLON"
     },
@@ -6988,6 +6969,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "ROBINSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-23",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-23",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "YOUNG"
     },
     {
       "periodKey": "2026-10",
@@ -7007,20 +7002,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-24",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-24",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-24",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "GILLON"
     },
@@ -7030,6 +7011,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "ROBINSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-24",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-24",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "YOUNG"
     },
     {
       "periodKey": "2026-10",
@@ -7049,20 +7044,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-25",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "WATERSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-25",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "YOUNG"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-25",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "GILLON"
     },
@@ -7077,6 +7058,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-25",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "WATERSON"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-25",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-25",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "ROBINSON"
     },
@@ -7086,6 +7081,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-26",
+      "weekday": "Monday",
+      "column": "116 base C",
+      "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-26",
+      "weekday": "Monday",
+      "column": "116 base D",
+      "name": "RHODES"
     },
     {
       "periodKey": "2026-10",
@@ -7100,20 +7109,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "118 Base B",
       "name": "MORGAN"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-26",
-      "weekday": "Monday",
-      "column": "116 base C",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-26",
-      "weekday": "Monday",
-      "column": "116 base D",
-      "name": "RHODES"
     },
     {
       "periodKey": "2026-10",
@@ -7133,20 +7128,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-27",
       "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-27",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "MORGAN"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-27",
-      "weekday": "Tuesday",
       "column": "116 base C",
       "name": "MONROE-SOMERVILLE"
     },
@@ -7161,6 +7142,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-27",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-27",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "MORGAN"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-27",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "G MCNEILL"
     },
@@ -7170,20 +7165,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Tuesday",
       "column": "2nd on call night",
       "name": "RHODES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-28",
-      "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-28",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "MORGAN"
     },
     {
       "periodKey": "2026-10",
@@ -7203,6 +7184,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-28",
       "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-28",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "MORGAN"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-28",
+      "weekday": "Wednesday",
       "column": "1st on call night",
       "name": "GILLON"
     },
@@ -7212,6 +7207,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-29",
+      "weekday": "Thursday",
+      "column": "116 base C",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-29",
+      "weekday": "Thursday",
+      "column": "116 base D",
+      "name": "RHODES"
     },
     {
       "periodKey": "2026-10",
@@ -7231,20 +7240,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-29",
       "weekday": "Thursday",
-      "column": "116 base C",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-29",
-      "weekday": "Thursday",
-      "column": "116 base D",
-      "name": "RHODES"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-29",
-      "weekday": "Thursday",
       "column": "1st on call night",
       "name": "HURRY"
     },
@@ -7259,20 +7254,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-30",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-30",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-30",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "CRAVEN"
     },
@@ -7287,8 +7268,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-30",
       "weekday": "Friday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-30",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-30",
+      "weekday": "Friday",
       "column": "1st on call night",
-      "name": "BIRSE"
+      "name": "FLEMING"
     },
     {
       "periodKey": "2026-10",
@@ -7296,20 +7291,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "2nd on call night",
       "name": "GIBSON"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-31",
-      "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-10",
-      "date": "2026-10-31",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "BIRSE"
     },
     {
       "periodKey": "2026-10",
@@ -7329,8 +7310,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-10",
       "date": "2026-10-31",
       "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-31",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-10",
+      "date": "2026-10-31",
+      "weekday": "Saturday",
       "column": "1st on call night",
-      "name": "BEATTY"
+      "name": "LIVESEY"
     },
     {
       "periodKey": "2026-10",
@@ -7338,20 +7333,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "2nd on call night",
       "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-01",
-      "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "BEATTY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-01",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "BIRSE"
     },
     {
       "periodKey": "2026-11",
@@ -7371,6 +7352,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-01",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-01",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-01",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "GIBSON"
     },
@@ -7379,21 +7374,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-01",
       "weekday": "Sunday",
       "column": "2nd on call night",
-      "name": "BIRSE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-02",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-02",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
+      "name": "FLEMING"
     },
     {
       "periodKey": "2026-11",
@@ -7407,7 +7388,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-02",
       "weekday": "Monday",
       "column": "116 base D",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-02",
+      "weekday": "Monday",
+      "column": "118 base A",
       "name": "HURRY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-02",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -7422,20 +7417,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "2nd on call night",
       "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-03",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-03",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -7449,7 +7430,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-03",
       "weekday": "Tuesday",
       "column": "116 base D",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-03",
+      "weekday": "Tuesday",
+      "column": "118 base A",
       "name": "HURRY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-03",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -7469,20 +7464,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-04",
       "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-04",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-04",
-      "weekday": "Wednesday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -7491,14 +7472,28 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-04",
       "weekday": "Wednesday",
       "column": "116 base D",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-04",
+      "weekday": "Wednesday",
+      "column": "118 base A",
       "name": "HURRY"
     },
     {
       "periodKey": "2026-11",
       "date": "2026-11-04",
       "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-04",
+      "weekday": "Wednesday",
       "column": "1st on call night",
-      "name": "DOCHERTY"
+      "name": "PRICE"
     },
     {
       "periodKey": "2026-11",
@@ -7506,20 +7501,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "2nd on call night",
       "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-05",
-      "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "HARTLEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-05",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -7533,14 +7514,28 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-05",
       "weekday": "Thursday",
       "column": "116 base D",
+      "name": "HARTLEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-05",
+      "weekday": "Thursday",
+      "column": "118 base A",
       "name": "HURRY"
     },
     {
       "periodKey": "2026-11",
       "date": "2026-11-05",
       "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-05",
+      "weekday": "Thursday",
       "column": "1st on call night",
-      "name": "RHODES"
+      "name": "GIBSON"
     },
     {
       "periodKey": "2026-11",
@@ -7553,6 +7548,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-06",
       "weekday": "Friday",
+      "column": "116 base C",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-06",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-06",
+      "weekday": "Friday",
       "column": "118 base A",
       "name": "CAMERON"
     },
@@ -7562,20 +7571,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-06",
-      "weekday": "Friday",
-      "column": "116 base C",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-06",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "GILLIES"
     },
     {
       "periodKey": "2026-11",
@@ -7595,6 +7590,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-07",
       "weekday": "Saturday",
+      "column": "116 base C",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-07",
+      "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "GILLIES"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-07",
+      "weekday": "Saturday",
       "column": "118 base A",
       "name": "CAMERON"
     },
@@ -7604,20 +7613,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "118 Base B",
       "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-07",
-      "weekday": "Saturday",
-      "column": "116 base C",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-07",
-      "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "GILLIES"
     },
     {
       "periodKey": "2026-11",
@@ -7631,7 +7626,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-07",
       "weekday": "Saturday",
       "column": "2nd on call night",
-      "name": "FLEMING"
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-08",
+      "weekday": "Sunday",
+      "column": "116 base C",
+      "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-08",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "GILLIES"
     },
     {
       "periodKey": "2026-11",
@@ -7651,20 +7660,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-08",
       "weekday": "Sunday",
-      "column": "116 base C",
-      "name": "FLEMING"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-08",
-      "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "GILLIES"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-08",
-      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "GILLIES"
     },
@@ -7674,20 +7669,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-09",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "RHODES"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-09",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "BAILLIE"
     },
     {
       "periodKey": "2026-11",
@@ -7702,6 +7683,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Monday",
       "column": "116 base D",
       "name": "STOUT"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-09",
+      "weekday": "Monday",
+      "column": "118 base A",
+      "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-09",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "BAILLIE"
     },
     {
       "periodKey": "2026-11",
@@ -7721,6 +7716,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-10",
       "weekday": "Tuesday",
+      "column": "116 base C",
+      "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-10",
+      "weekday": "Tuesday",
+      "column": "116 base D",
+      "name": "STOUT"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-10",
+      "weekday": "Tuesday",
       "column": "118 base A",
       "name": "RHODES"
     },
@@ -7730,20 +7739,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Tuesday",
       "column": "118 Base B",
       "name": "BAILLIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-10",
-      "weekday": "Tuesday",
-      "column": "116 base C",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-10",
-      "weekday": "Tuesday",
-      "column": "116 base D",
-      "name": "STOUT"
     },
     {
       "periodKey": "2026-11",
@@ -7763,6 +7758,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-11",
       "weekday": "Wednesday",
+      "column": "116 base C",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-11",
+      "weekday": "Wednesday",
+      "column": "116 base D",
+      "name": "STOUT"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-11",
+      "weekday": "Wednesday",
       "column": "118 base A",
       "name": "RHODES"
     },
@@ -7772,20 +7781,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "118 Base B",
       "name": "BAILLIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-11",
-      "weekday": "Wednesday",
-      "column": "116 base C",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-11",
-      "weekday": "Wednesday",
-      "column": "116 base D",
-      "name": "STOUT"
     },
     {
       "periodKey": "2026-11",
@@ -7805,20 +7800,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-12",
       "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "RHODES"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-12",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "BAILLIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-12",
-      "weekday": "Thursday",
       "column": "116 base C",
       "name": "HURRY"
     },
@@ -7828,6 +7809,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Thursday",
       "column": "116 base D",
       "name": "STOUT"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-12",
+      "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "RHODES"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-12",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "BAILLIE"
     },
     {
       "periodKey": "2026-11",
@@ -7847,20 +7842,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-13",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-13",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-13",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "KEFALA"
     },
@@ -7870,6 +7851,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "LONE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-13",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-13",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "BIDDIE"
     },
     {
       "periodKey": "2026-11",
@@ -7889,20 +7884,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-14",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-14",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-14",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "KEFALA"
     },
@@ -7917,8 +7898,22 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-14",
       "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-14",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "BIDDIE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-14",
+      "weekday": "Saturday",
       "column": "1st on call night",
-      "name": "LIVESEY"
+      "name": "BEATTY"
     },
     {
       "periodKey": "2026-11",
@@ -7926,20 +7921,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "2nd on call night",
       "name": "KEFALA"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-15",
-      "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-15",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "BIDDIE"
     },
     {
       "periodKey": "2026-11",
@@ -7959,6 +7940,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-15",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "BEATTY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-15",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "BIDDIE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-15",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "LONE"
     },
@@ -7968,20 +7963,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "BIDDIE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-16",
-      "weekday": "Monday",
-      "column": "118 base A",
-      "name": "JIWAJI"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-16",
-      "weekday": "Monday",
-      "column": "118 Base B",
-      "name": "GRIFFITH"
     },
     {
       "periodKey": "2026-11",
@@ -8001,6 +7982,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-16",
       "weekday": "Monday",
+      "column": "118 base A",
+      "name": "JIWAJI"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-16",
+      "weekday": "Monday",
+      "column": "118 Base B",
+      "name": "GRIFFITH"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-16",
+      "weekday": "Monday",
       "column": "1st on call night",
       "name": "MONROE-SOMERVILLE"
     },
@@ -8009,20 +8004,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-16",
       "weekday": "Monday",
       "column": "2nd on call night",
-      "name": "GRIFFITH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-17",
-      "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "JIWAJI"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-17",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
       "name": "GRIFFITH"
     },
     {
@@ -8043,6 +8024,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-17",
       "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "JIWAJI"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-17",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "GRIFFITH"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-17",
+      "weekday": "Tuesday",
       "column": "1st on call night",
       "name": "YOUNG"
     },
@@ -8057,20 +8052,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-18",
       "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "JIWAJI"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-18",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "GRIFFITH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-18",
-      "weekday": "Wednesday",
       "column": "116 base C",
       "name": "KERSLAKE"
     },
@@ -8080,6 +8061,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "116 base D",
       "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-18",
+      "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "JIWAJI"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-18",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "GRIFFITH"
     },
     {
       "periodKey": "2026-11",
@@ -8099,20 +8094,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-19",
       "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "JIWAJI"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-19",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "GRIFFITH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-19",
-      "weekday": "Thursday",
       "column": "116 base C",
       "name": "KERSLAKE"
     },
@@ -8122,6 +8103,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Thursday",
       "column": "116 base D",
       "name": "FERGUSON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-19",
+      "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "JIWAJI"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-19",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "GRIFFITH"
     },
     {
       "periodKey": "2026-11",
@@ -8141,20 +8136,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-20",
       "weekday": "Friday",
-      "column": "118 base A",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-20",
-      "weekday": "Friday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-20",
-      "weekday": "Friday",
       "column": "116 base C",
       "name": "HARTLEY"
     },
@@ -8164,6 +8145,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "116 base D",
       "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-20",
+      "weekday": "Friday",
+      "column": "118 base A",
+      "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-20",
+      "weekday": "Friday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -8183,20 +8178,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-21",
       "weekday": "Saturday",
-      "column": "118 base A",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-21",
-      "weekday": "Saturday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-21",
-      "weekday": "Saturday",
       "column": "116 base C",
       "name": "HARTLEY"
     },
@@ -8206,6 +8187,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "116 base D",
       "name": "BIRSE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-21",
+      "weekday": "Saturday",
+      "column": "118 base A",
+      "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-21",
+      "weekday": "Saturday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
     },
     {
       "periodKey": "2026-11",
@@ -8225,20 +8220,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-22",
       "weekday": "Sunday",
-      "column": "118 base A",
-      "name": "MONROE-SOMERVILLE"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-22",
-      "weekday": "Sunday",
-      "column": "118 Base B",
-      "name": "G MCNEILL"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-22",
-      "weekday": "Sunday",
       "column": "116 base C",
       "name": "HARTLEY"
     },
@@ -8253,6 +8234,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-22",
       "weekday": "Sunday",
+      "column": "118 base A",
+      "name": "MONROE-SOMERVILLE"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-22",
+      "weekday": "Sunday",
+      "column": "118 Base B",
+      "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-22",
+      "weekday": "Sunday",
       "column": "1st on call night",
       "name": "BIRSE"
     },
@@ -8262,6 +8257,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "2nd on call night",
       "name": "G MCNEILL"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-23",
+      "weekday": "Monday",
+      "column": "116 base C",
+      "name": "CRAVEN"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-23",
+      "weekday": "Monday",
+      "column": "116 base D",
+      "name": "GILLON"
     },
     {
       "periodKey": "2026-11",
@@ -8281,20 +8290,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-23",
       "weekday": "Monday",
-      "column": "116 base C",
-      "name": "CRAVEN"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-23",
-      "weekday": "Monday",
-      "column": "116 base D",
-      "name": "GILLON"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-23",
-      "weekday": "Monday",
       "column": "1st on call night",
       "name": "HURRY"
     },
@@ -8309,20 +8304,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-24",
       "weekday": "Tuesday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-24",
-      "weekday": "Tuesday",
-      "column": "118 Base B",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-24",
-      "weekday": "Tuesday",
       "column": "116 base C",
       "name": "CRAVEN"
     },
@@ -8332,6 +8313,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Tuesday",
       "column": "116 base D",
       "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-24",
+      "weekday": "Tuesday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-24",
+      "weekday": "Tuesday",
+      "column": "118 Base B",
+      "name": "BARUAH"
     },
     {
       "periodKey": "2026-11",
@@ -8351,20 +8346,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-25",
       "weekday": "Wednesday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-25",
-      "weekday": "Wednesday",
-      "column": "118 Base B",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-25",
-      "weekday": "Wednesday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -8374,6 +8355,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Wednesday",
       "column": "116 base D",
       "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-25",
+      "weekday": "Wednesday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-25",
+      "weekday": "Wednesday",
+      "column": "118 Base B",
+      "name": "BARUAH"
     },
     {
       "periodKey": "2026-11",
@@ -8393,20 +8388,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-26",
       "weekday": "Thursday",
-      "column": "118 base A",
-      "name": "LIVESEY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-26",
-      "weekday": "Thursday",
-      "column": "118 Base B",
-      "name": "BARUAH"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-26",
-      "weekday": "Thursday",
       "column": "116 base C",
       "name": "BEATTY"
     },
@@ -8416,6 +8397,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Thursday",
       "column": "116 base D",
       "name": "GILLON"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-26",
+      "weekday": "Thursday",
+      "column": "118 base A",
+      "name": "LIVESEY"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-26",
+      "weekday": "Thursday",
+      "column": "118 Base B",
+      "name": "BARUAH"
     },
     {
       "periodKey": "2026-11",
@@ -8435,6 +8430,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-27",
       "weekday": "Friday",
+      "column": "116 base C",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-27",
+      "weekday": "Friday",
+      "column": "116 base D",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-27",
+      "weekday": "Friday",
       "column": "118 base A",
       "name": "CRAVEN"
     },
@@ -8444,20 +8453,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Friday",
       "column": "118 Base B",
       "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-27",
-      "weekday": "Friday",
-      "column": "116 base C",
-      "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-27",
-      "weekday": "Friday",
-      "column": "116 base D",
-      "name": "FLEMING"
     },
     {
       "periodKey": "2026-11",
@@ -8477,6 +8472,20 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "periodKey": "2026-11",
       "date": "2026-11-28",
       "weekday": "Saturday",
+      "column": "116 base C",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-28",
+      "weekday": "Saturday",
+      "column": "116 base D",
+      "name": "FLEMING"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-28",
+      "weekday": "Saturday",
       "column": "118 base A",
       "name": "CRAVEN"
     },
@@ -8486,20 +8495,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Saturday",
       "column": "118 Base B",
       "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-28",
-      "weekday": "Saturday",
-      "column": "116 base C",
-      "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-28",
-      "weekday": "Saturday",
-      "column": "116 base D",
-      "name": "FLEMING"
     },
     {
       "periodKey": "2026-11",
@@ -8513,7 +8508,21 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "date": "2026-11-28",
       "weekday": "Saturday",
       "column": "2nd on call night",
-      "name": "HURRY"
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-29",
+      "weekday": "Sunday",
+      "column": "116 base C",
+      "name": "YOUNG"
+    },
+    {
+      "periodKey": "2026-11",
+      "date": "2026-11-29",
+      "weekday": "Sunday",
+      "column": "116 base D",
+      "name": "FLEMING"
     },
     {
       "periodKey": "2026-11",
@@ -8528,20 +8537,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
       "weekday": "Sunday",
       "column": "118 Base B",
       "name": "CAMERON"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-29",
-      "weekday": "Sunday",
-      "column": "116 base C",
-      "name": "HURRY"
-    },
-    {
-      "periodKey": "2026-11",
-      "date": "2026-11-29",
-      "weekday": "Sunday",
-      "column": "116 base D",
-      "name": "FLEMING"
     },
     {
       "periodKey": "2026-11",
@@ -8562,6 +8557,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
     "BAILLIE",
     "BARUAH",
     "BEATTY",
+    "BI DDIE",
     "BIDDIE",
     "BIRSE",
     "BLACKSTOCK",
@@ -8582,6 +8578,7 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
     "KEFALA",
     "KERSLAKE",
     "LIVESEY",
+    "LIVESEY / LONE",
     "LONE",
     "MONROE-SOMERVILLE",
     "MORGAN",
@@ -8594,5 +8591,6 @@ window.ROTA_DATASETS["aug-nov-2026"] = {
     "WATERSON",
     "WEIDANZ",
     "YOUNG"
-  ]
+  ],
+  "label": "August - November 2026"
 };
